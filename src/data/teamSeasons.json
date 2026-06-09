@@ -1,0 +1,50 @@
+[
+  {
+    "id": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "clubName": "Barcelona",
+    "country": "Spain",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed"
+  },
+  {
+    "id": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "clubName": "Real Madrid",
+    "country": "Spain",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed"
+  },
+  {
+    "id": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "clubName": "Bayern Munich",
+    "country": "Germany",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed"
+  },
+  {
+    "id": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "clubName": "Manchester City",
+    "country": "England",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed"
+  },
+  {
+    "id": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "clubName": "APOEL",
+    "country": "Cyprus",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed"
+  },
+  {
+    "id": "basel-2011-12",
+    "seasonId": "2011-12",
+    "clubName": "Basel",
+    "country": "Switzerland",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "datasetMode": "uploaded",
+  "datasetName": "uploaded Champions League data",
+  "generatedAt": "2026-06-09T21:45:15.236Z",
+  "totalSeasons": 32,
+  "totalTeamSeasons": 912,
+  "totalPlayers": 19621,
+  "validTeamSeasons": 912,
+  "playableTeamSeasons": 912,
+  "completeTeamSeasons": 701,
+  "incompleteTeamSeasons": 211,
+  "onlineRatings": 0,
+  "estimatedRatings": 19621,
+  "missingRatings": 0,
+  "coverageStatus": "partial",
+  "warnings": [
+    "Some team-seasons have fewer than 20 players; they stay generated and are playable when they have at least 14 players.",
+    "Some players had missing positions and were defaulted to CM."
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2011-12",
+    "seasonLabel": "2011-12",
+    "yearStart": 2011,
+    "yearEnd": 2012
+  },
+  {
+    "id": "2014-15",
+    "seasonLabel": "2014-15",
+    "yearStart": 2014,
+    "yearEnd": 2015
+  },
+  {
+    "id": "2016-17",
+    "seasonLabel": "2016-17",
+    "yearStart": 2016,
+    "yearEnd": 2017
+  },
+  {
+    "id": "2019-20",
+    "seasonLabel": "2019-20",
+    "yearStart": 2019,
+    "yearEnd": 2020
+  },
+  {
+    "id": "2022-23",
+    "seasonLabel": "2022-23",
+    "yearStart": 2022,
+    "yearEnd": 2023
+  }
+]

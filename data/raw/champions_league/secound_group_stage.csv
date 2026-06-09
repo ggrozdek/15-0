@@ -1,0 +1,65 @@
+season_id;team_id;team_name;secound_group_stage_name;secound_group_stage_status
+9;66;S.S. Lazio;D;first place
+9;8;Dynamo Kyiv;C;drop out
+9;5;FC Barcelona;A;first place
+9;90;ACF Fiorentina;B;drop out
+9;32;Rosenborg BK;C;drop out
+9;47;Feyenoord Rotterdam;D;drop out
+9;22;Manchester United F.C.;B;first place
+9;9;Olympique Marseille;D;drop out
+9;36;Real Madrid;C;secound place
+9;15;FC Porto;A;secound place
+9;73;Valencia CF;B;secound place
+9;24;FC Bayern Munich;C;first place
+9;6;Sparta Prague;A;drop out
+9;85;Girondins Bordeaux;B;drop out
+9;65;Chelsea F.C.;D;secound place
+9;148;Hertha BSC;A;drop out
+10;36;Real Madrid;D;first place
+10;17;Spartak Moscow;C;drop out
+10;59;Arsenal F.C.;C;secound place
+10;66;S.S. Lazio;D;drop out
+10;73;Valencia CF;A;first place
+10;67;Olympique Lyon;C;drop out
+10;144;SK Sturm Graz;A;drop out
+10;19;Galatasaray SK;B;secound place
+10;68;Deportivo La Coruna;B;first place
+10;4;Panathinaikos AO;A;drop out
+10;24;FC Bayern Munich;C;first place
+10;23;Paris Saint-Germain F.C.;B;drop out
+10;3;RSC Anderlecht;D;drop out
+10;22;Manchester United F.C.;A;secound place
+10;13;A.C. Milan;B;drop out
+10;151;Leeds United F.C.;D;secound place
+11;36;Real Madrid;C;first place
+11;72;AS Roma;B;drop out
+11;75;Liverpool F.C.;B;secound place
+11;143;Boavista FC;A;drop out
+11;4;Panathinaikos AO;C;secound place
+11;59;Arsenal F.C.;D;drop out
+11;29;FC Nantes;A;drop out
+11;19;Galatasaray SK;B;drop out
+11;34;Juventus F.C.;D;drop out
+11;15;FC Porto;C;drop out
+11;5;FC Barcelona;B;first place
+11;51;Bayer Leverkusen;D;first place
+11;68;Deportivo La Coruna;D;secound place
+11;22;Manchester United F.C.;A;first place
+11;24;FC Bayern Munich;A;secound place
+11;6;Sparta Prague;C;drop out
+12;59;Arsenal F.C.;B;drop out
+12;35;Borussia Dortmund;C;drop out
+12;73;Valencia CF;B;first place
+12;91;FC Basel;D;drop out
+12;36;Real Madrid;C;secound place
+12;72;AS Roma;B;drop out
+12;53;Inter Mediolan;A;secound place
+12;27;Ajax Amsterdam;B;secound place
+12;34;Juventus F.C.;D;secound place
+12;49;Newcastle United F.C.;A;drop out
+12;22;Manchester United F.C.;D;first place
+12;51;Bayer Leverkusen;A;drop out
+12;13;A.C. Milan;C;first place
+12;68;Deportivo La Coruna;D;drop out
+12;5;FC Barcelona;A;first place
+12;64;Lokomotiv Moscow;C;drop out

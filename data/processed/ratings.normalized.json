@@ -1,0 +1,1694 @@
+[
+  {
+    "playerName": "Marc-Andre ter Stegen",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Claudio Bravo",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Dani Alves",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "RB",
+      "RWB",
+      "RM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Gerard Pique",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Javier Mascherano",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CB",
+      "CDM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Jeremy Mathieu",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CB",
+      "LB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Jordi Alba",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "LB",
+      "LWB",
+      "LM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Adriano",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "LB",
+      "RB",
+      "LWB"
+    ],
+    "overallRating": 82,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Sergio Busquets",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 92,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Andres Iniesta",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 94,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Xavi",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Ivan Rakitic",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Rafinha",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "CM",
+      "CAM",
+      "RM"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Pedro",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "RW",
+      "LW",
+      "RM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Lionel Messi",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "RW",
+      "CF",
+      "ST"
+    ],
+    "overallRating": 98,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Luis Suarez",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 95,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Neymar",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "LW",
+      "LM",
+      "ST"
+    ],
+    "overallRating": 94,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Munir El Haddadi",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "ST",
+      "RW"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Sandro Ramirez",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "ST",
+      "LW"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Martin Montoya",
+    "clubName": "Barcelona",
+    "year": 2014,
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 79,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Keylor Navas",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Kiko Casilla",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Sergio Ramos",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 92,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Raphael Varane",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Pepe",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Nacho",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CB",
+      "LB",
+      "RB"
+    ],
+    "overallRating": 83,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Marcelo",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "LB",
+      "LWB",
+      "LM"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Fabio Coentrao",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "LB",
+      "LWB"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Dani Carvajal",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Danilo",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 81,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Casemiro",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Luka Modric",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 94,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Toni Kroos",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 93,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Isco",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CAM",
+      "CM",
+      "LW"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Mateo Kovacic",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Marco Asensio",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "RW",
+      "LW",
+      "CAM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Gareth Bale",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "RW",
+      "LW",
+      "ST"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Cristiano Ronaldo",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "LW",
+      "ST"
+    ],
+    "overallRating": 97,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Karim Benzema",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Alvaro Morata",
+    "clubName": "Real Madrid",
+    "year": 2016,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Manuel Neuer",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 93,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Sven Ulreich",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Benjamin Pavard",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "RB",
+      "CB",
+      "RWB"
+    ],
+    "overallRating": 85,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Jerome Boateng",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "David Alaba",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CB",
+      "LB",
+      "CDM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Niklas Sule",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Lucas Hernandez",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "LB",
+      "CB",
+      "LWB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Alphonso Davies",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "LB",
+      "LWB",
+      "LM"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Joshua Kimmich",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CDM",
+      "CM",
+      "RB"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Thiago",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Leon Goretzka",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CM",
+      "CAM",
+      "CDM"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Corentin Tolisso",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 82,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Philippe Coutinho",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CAM",
+      "LW",
+      "CM"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Thomas Muller",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CAM",
+      "CF",
+      "ST"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Kingsley Coman",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "LW",
+      "RW",
+      "LM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Ivan Perisic",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "LW",
+      "LM",
+      "RW"
+    ],
+    "overallRating": 83,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Serge Gnabry",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "RW",
+      "LW",
+      "RM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Michael Cuisance",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Robert Lewandowski",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 97,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Joshua Zirkzee",
+    "clubName": "Bayern Munich",
+    "year": 2019,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Ederson",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Stefan Ortega",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Kyle Walker",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "RB",
+      "RWB",
+      "CB"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Manuel Akanji",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CB",
+      "RB"
+    ],
+    "overallRating": 85,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Ruben Dias",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "John Stones",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CB",
+      "CDM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Aymeric Laporte",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CB",
+      "LB"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Nathan Ake",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "LB",
+      "CB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Joao Cancelo",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "LB",
+      "RB",
+      "LWB",
+      "RWB"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Rico Lewis",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "RB",
+      "RWB",
+      "CM"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Rodri",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 93,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Kalvin Phillips",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Ilkay Gundogan",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Kevin De Bruyne",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 96,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Bernardo Silva",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "RW",
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Phil Foden",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "LW",
+      "RW",
+      "CAM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Jack Grealish",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "LW",
+      "LM",
+      "CAM"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Riyad Mahrez",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "RW",
+      "RM",
+      "LW"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Julian Alvarez",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "CF",
+      "ST",
+      "CAM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Erling Haaland",
+    "clubName": "Manchester City",
+    "year": 2022,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 96,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Dionysis Chiotis",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Urko Pardo",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Savvas Poursaitides",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Paulo Jorge",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Kaka",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Marcelo Oliveira",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CB",
+      "LB"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "William Boaventura",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "LB",
+      "LWB"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Nektarios Alexandrou",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "LM",
+      "LW",
+      "LWB"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Nuno Morais",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Helio Pinto",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Marinos Satsias",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 72,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Constantinos Charalambides",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "RM",
+      "RW"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Gustavo Manduca",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "LW",
+      "LM",
+      "CAM"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Marcinho",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CAM",
+      "CM"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Ivan Trickovski",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "RW",
+      "ST"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Ailton Almeida",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Esteban Solari",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Aldo Adorno",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "RW"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Sanel Jahic",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "CDM",
+      "CB"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Marios Elia",
+    "clubName": "APOEL",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 72,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Yann Sommer",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 82,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Germano Vailati",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 70,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Markus Steinhofer",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Aleksandar Dragovic",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "David Abraham",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Radoslav Kovac",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CB",
+      "CDM"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Park Joo-ho",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "LB",
+      "LWB"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Behrang Safari",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "LB",
+      "LM"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Benjamin Huggel",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Cabral",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Granit Xhaka",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Gilles Yapi",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Fabian Frei",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "CM",
+      "RM"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Xherdan Shaqiri",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "RW",
+      "RM",
+      "CAM"
+    ],
+    "overallRating": 83,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Valentin Stocker",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "LW",
+      "LM"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Alexander Frei",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Marco Streller",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Jacques Zoua",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "LW"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Scott Chipperfield",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "LM",
+      "LB"
+    ],
+    "overallRating": 72,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "playerName": "Pak Kwang-ryong",
+    "clubName": "Basel",
+    "year": 2011,
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 68,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  }
+]

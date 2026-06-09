@@ -1,0 +1,17 @@
+{
+  "name": "Road to 15-0",
+  "short_name": "Road 15-0",
+  "description": "Build a fantasy Champions League XI and simulate a modern league phase run.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,2763 @@
+[
+  {
+    "id": "bar-1415-terstegen",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Marc-Andre ter Stegen",
+    "nationality": "Germany",
+    "age": 22,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-bravo",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Claudio Bravo",
+    "nationality": "Chile",
+    "age": 31,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-alves",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Dani Alves",
+    "nationality": "Brazil",
+    "age": 31,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB",
+      "RM"
+    ],
+    "positions": [
+      "RB",
+      "RWB",
+      "RM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-pique",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Gerard Pique",
+    "nationality": "Spain",
+    "age": 28,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-mascherano",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Javier Mascherano",
+    "nationality": "Argentina",
+    "age": 30,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CB",
+      "CDM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-mathieu",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Jeremy Mathieu",
+    "nationality": "France",
+    "age": 31,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "LB"
+    ],
+    "positions": [
+      "CB",
+      "LB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-alba",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Jordi Alba",
+    "nationality": "Spain",
+    "age": 25,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "LWB",
+      "LM"
+    ],
+    "positions": [
+      "LB",
+      "LWB",
+      "LM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-adriano",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Adriano",
+    "nationality": "Brazil",
+    "age": 30,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "RB",
+      "LWB"
+    ],
+    "positions": [
+      "LB",
+      "RB",
+      "LWB"
+    ],
+    "overallRating": 82,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-busquets",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Sergio Busquets",
+    "nationality": "Spain",
+    "age": 26,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 92,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-iniesta",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Andres Iniesta",
+    "nationality": "Spain",
+    "age": 30,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 94,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-xavi",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Xavi",
+    "nationality": "Spain",
+    "age": 35,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-rakitic",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Ivan Rakitic",
+    "nationality": "Croatia",
+    "age": 26,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-rafinha",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Rafinha",
+    "nationality": "Brazil",
+    "age": 22,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM",
+      "RM"
+    ],
+    "positions": [
+      "CM",
+      "CAM",
+      "RM"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-pedro",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Pedro",
+    "nationality": "Spain",
+    "age": 27,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "LW",
+      "RM"
+    ],
+    "positions": [
+      "RW",
+      "LW",
+      "RM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-messi",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "age": 27,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "CF",
+      "ST"
+    ],
+    "positions": [
+      "RW",
+      "CF",
+      "ST"
+    ],
+    "overallRating": 98,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-suarez",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Luis Suarez",
+    "nationality": "Uruguay",
+    "age": 28,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 95,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-neymar",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Neymar",
+    "nationality": "Brazil",
+    "age": 23,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "LM",
+      "ST"
+    ],
+    "positions": [
+      "LW",
+      "LM",
+      "ST"
+    ],
+    "overallRating": 94,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-munir",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Munir El Haddadi",
+    "nationality": "Spain",
+    "age": 19,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "RW"
+    ],
+    "positions": [
+      "ST",
+      "RW"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-sandro",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Sandro Ramirez",
+    "nationality": "Spain",
+    "age": 19,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "LW"
+    ],
+    "positions": [
+      "ST",
+      "LW"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bar-1415-montoya",
+    "teamSeasonId": "barcelona-2014-15",
+    "seasonId": "2014-15",
+    "seasonLabel": "2014-15",
+    "clubName": "Barcelona",
+    "name": "Martin Montoya",
+    "nationality": "Spain",
+    "age": 23,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB"
+    ],
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 79,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-navas",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Keylor Navas",
+    "nationality": "Costa Rica",
+    "age": 30,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-casilla",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Kiko Casilla",
+    "nationality": "Spain",
+    "age": 30,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-ramos",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Sergio Ramos",
+    "nationality": "Spain",
+    "age": 31,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 92,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-varane",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Raphael Varane",
+    "nationality": "France",
+    "age": 24,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-pepe",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Pepe",
+    "nationality": "Portugal",
+    "age": 34,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-nacho",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Nacho",
+    "nationality": "Spain",
+    "age": 27,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "LB",
+      "RB"
+    ],
+    "positions": [
+      "CB",
+      "LB",
+      "RB"
+    ],
+    "overallRating": 83,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-marcelo",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Marcelo",
+    "nationality": "Brazil",
+    "age": 29,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "LWB",
+      "LM"
+    ],
+    "positions": [
+      "LB",
+      "LWB",
+      "LM"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-coentrao",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Fabio Coentrao",
+    "nationality": "Portugal",
+    "age": 29,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "LWB"
+    ],
+    "positions": [
+      "LB",
+      "LWB"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-carvajal",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Dani Carvajal",
+    "nationality": "Spain",
+    "age": 25,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB"
+    ],
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-danilo",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Danilo",
+    "nationality": "Brazil",
+    "age": 25,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB"
+    ],
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 81,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-casemiro",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Casemiro",
+    "nationality": "Brazil",
+    "age": 25,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-modric",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Luka Modric",
+    "nationality": "Croatia",
+    "age": 31,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 94,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-kroos",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Toni Kroos",
+    "nationality": "Germany",
+    "age": 27,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 93,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-isco",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Isco",
+    "nationality": "Spain",
+    "age": 25,
+    "primaryPosition": "CAM",
+    "secondaryPositions": [
+      "CM",
+      "LW"
+    ],
+    "positions": [
+      "CAM",
+      "CM",
+      "LW"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-kovacic",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Mateo Kovacic",
+    "nationality": "Croatia",
+    "age": 23,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-asensio",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Marco Asensio",
+    "nationality": "Spain",
+    "age": 21,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "LW",
+      "CAM"
+    ],
+    "positions": [
+      "RW",
+      "LW",
+      "CAM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-bale",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Gareth Bale",
+    "nationality": "Wales",
+    "age": 27,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "LW",
+      "ST"
+    ],
+    "positions": [
+      "RW",
+      "LW",
+      "ST"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-ronaldo",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "age": 32,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "ST"
+    ],
+    "positions": [
+      "LW",
+      "ST"
+    ],
+    "overallRating": 97,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-benzema",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Karim Benzema",
+    "nationality": "France",
+    "age": 29,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "rma-1617-morata",
+    "teamSeasonId": "real-madrid-2016-17",
+    "seasonId": "2016-17",
+    "seasonLabel": "2016-17",
+    "clubName": "Real Madrid",
+    "name": "Alvaro Morata",
+    "nationality": "Spain",
+    "age": 24,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-neuer",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Manuel Neuer",
+    "nationality": "Germany",
+    "age": 33,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 93,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-ulreich",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Sven Ulreich",
+    "nationality": "Germany",
+    "age": 31,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-pavard",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Benjamin Pavard",
+    "nationality": "France",
+    "age": 23,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "CB",
+      "RWB"
+    ],
+    "positions": [
+      "RB",
+      "CB",
+      "RWB"
+    ],
+    "overallRating": 85,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-boateng",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Jerome Boateng",
+    "nationality": "Germany",
+    "age": 31,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-alaba",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "David Alaba",
+    "nationality": "Austria",
+    "age": 27,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "LB",
+      "CDM"
+    ],
+    "positions": [
+      "CB",
+      "LB",
+      "CDM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-sule",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Niklas Sule",
+    "nationality": "Germany",
+    "age": 24,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-hernandez",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Lucas Hernandez",
+    "nationality": "France",
+    "age": 23,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "CB",
+      "LWB"
+    ],
+    "positions": [
+      "LB",
+      "CB",
+      "LWB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-davies",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Alphonso Davies",
+    "nationality": "Canada",
+    "age": 19,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "LWB",
+      "LM"
+    ],
+    "positions": [
+      "LB",
+      "LWB",
+      "LM"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-kimmich",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Joshua Kimmich",
+    "nationality": "Germany",
+    "age": 25,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM",
+      "RB"
+    ],
+    "positions": [
+      "CDM",
+      "CM",
+      "RB"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-thiago",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Thiago",
+    "nationality": "Spain",
+    "age": 28,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-goretzka",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Leon Goretzka",
+    "nationality": "Germany",
+    "age": 25,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM",
+      "CDM"
+    ],
+    "positions": [
+      "CM",
+      "CAM",
+      "CDM"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-tolisso",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Corentin Tolisso",
+    "nationality": "France",
+    "age": 25,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 82,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-coutinho",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Philippe Coutinho",
+    "nationality": "Brazil",
+    "age": 27,
+    "primaryPosition": "CAM",
+    "secondaryPositions": [
+      "LW",
+      "CM"
+    ],
+    "positions": [
+      "CAM",
+      "LW",
+      "CM"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-muller",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Thomas Muller",
+    "nationality": "Germany",
+    "age": 30,
+    "primaryPosition": "CAM",
+    "secondaryPositions": [
+      "CF",
+      "ST"
+    ],
+    "positions": [
+      "CAM",
+      "CF",
+      "ST"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-coman",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Kingsley Coman",
+    "nationality": "France",
+    "age": 23,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "RW",
+      "LM"
+    ],
+    "positions": [
+      "LW",
+      "RW",
+      "LM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-perisic",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Ivan Perisic",
+    "nationality": "Croatia",
+    "age": 31,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "LM",
+      "RW"
+    ],
+    "positions": [
+      "LW",
+      "LM",
+      "RW"
+    ],
+    "overallRating": 83,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-gnabry",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Serge Gnabry",
+    "nationality": "Germany",
+    "age": 24,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "LW",
+      "RM"
+    ],
+    "positions": [
+      "RW",
+      "LW",
+      "RM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-cuisance",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Michael Cuisance",
+    "nationality": "France",
+    "age": 20,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-lewandowski",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Robert Lewandowski",
+    "nationality": "Poland",
+    "age": 31,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 97,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bay-1920-zirkzee",
+    "teamSeasonId": "bayern-munich-2019-20",
+    "seasonId": "2019-20",
+    "seasonLabel": "2019-20",
+    "clubName": "Bayern Munich",
+    "name": "Joshua Zirkzee",
+    "nationality": "Netherlands",
+    "age": 18,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-ederson",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Ederson",
+    "nationality": "Brazil",
+    "age": 29,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-ortega",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Stefan Ortega",
+    "nationality": "Germany",
+    "age": 30,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-walker",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Kyle Walker",
+    "nationality": "England",
+    "age": 32,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB",
+      "CB"
+    ],
+    "positions": [
+      "RB",
+      "RWB",
+      "CB"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-akanji",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Manuel Akanji",
+    "nationality": "Switzerland",
+    "age": 27,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "RB"
+    ],
+    "positions": [
+      "CB",
+      "RB"
+    ],
+    "overallRating": 85,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-dias",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Ruben Dias",
+    "nationality": "Portugal",
+    "age": 25,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-stones",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "John Stones",
+    "nationality": "England",
+    "age": 28,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CB",
+      "CDM"
+    ],
+    "overallRating": 89,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-laporte",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Aymeric Laporte",
+    "nationality": "Spain",
+    "age": 28,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "LB"
+    ],
+    "positions": [
+      "CB",
+      "LB"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-ake",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Nathan Ake",
+    "nationality": "Netherlands",
+    "age": 27,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "CB"
+    ],
+    "positions": [
+      "LB",
+      "CB"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-cancelo",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Joao Cancelo",
+    "nationality": "Portugal",
+    "age": 28,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "RB",
+      "LWB",
+      "RWB"
+    ],
+    "positions": [
+      "LB",
+      "RB",
+      "LWB",
+      "RWB"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-lewis",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Rico Lewis",
+    "nationality": "England",
+    "age": 18,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB",
+      "CM"
+    ],
+    "positions": [
+      "RB",
+      "RWB",
+      "CM"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-rodri",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Rodri",
+    "nationality": "Spain",
+    "age": 26,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 93,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-phillips",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Kalvin Phillips",
+    "nationality": "England",
+    "age": 27,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-gundogan",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Ilkay Gundogan",
+    "nationality": "Germany",
+    "age": 32,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 90,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-debruyne",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Kevin De Bruyne",
+    "nationality": "Belgium",
+    "age": 31,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 96,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-bernardo",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Bernardo Silva",
+    "nationality": "Portugal",
+    "age": 28,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "CM",
+      "CAM"
+    ],
+    "positions": [
+      "RW",
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 91,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-foden",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Phil Foden",
+    "nationality": "England",
+    "age": 22,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "RW",
+      "CAM"
+    ],
+    "positions": [
+      "LW",
+      "RW",
+      "CAM"
+    ],
+    "overallRating": 88,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-grealish",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Jack Grealish",
+    "nationality": "England",
+    "age": 27,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "LM",
+      "CAM"
+    ],
+    "positions": [
+      "LW",
+      "LM",
+      "CAM"
+    ],
+    "overallRating": 86,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-mahrez",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Riyad Mahrez",
+    "nationality": "Algeria",
+    "age": 31,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "RM",
+      "LW"
+    ],
+    "positions": [
+      "RW",
+      "RM",
+      "LW"
+    ],
+    "overallRating": 87,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-alvarez",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Julian Alvarez",
+    "nationality": "Argentina",
+    "age": 22,
+    "primaryPosition": "CF",
+    "secondaryPositions": [
+      "ST",
+      "CAM"
+    ],
+    "positions": [
+      "CF",
+      "ST",
+      "CAM"
+    ],
+    "overallRating": 84,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "mci-2223-haaland",
+    "teamSeasonId": "manchester-city-2022-23",
+    "seasonId": "2022-23",
+    "seasonLabel": "2022-23",
+    "clubName": "Manchester City",
+    "name": "Erling Haaland",
+    "nationality": "Norway",
+    "age": 22,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 96,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-chiotis",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Dionysis Chiotis",
+    "nationality": "Greece",
+    "age": 34,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-pardo",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Urko Pardo",
+    "nationality": "Spain",
+    "age": 28,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-poursaitides",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Savvas Poursaitides",
+    "nationality": "Cyprus",
+    "age": 35,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB"
+    ],
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-paulo-jorge",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Paulo Jorge",
+    "nationality": "Portugal",
+    "age": 31,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-kaka",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Kaka",
+    "nationality": "Brazil",
+    "age": 30,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-oliveira",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Marcelo Oliveira",
+    "nationality": "Brazil",
+    "age": 30,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "LB"
+    ],
+    "positions": [
+      "CB",
+      "LB"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-boaventura",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "William Boaventura",
+    "nationality": "Brazil",
+    "age": 31,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "LWB"
+    ],
+    "positions": [
+      "LB",
+      "LWB"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-alexandrou",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Nektarios Alexandrou",
+    "nationality": "Cyprus",
+    "age": 28,
+    "primaryPosition": "LM",
+    "secondaryPositions": [
+      "LW",
+      "LWB"
+    ],
+    "positions": [
+      "LM",
+      "LW",
+      "LWB"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-morais",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Nuno Morais",
+    "nationality": "Portugal",
+    "age": 27,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-pinto",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Helio Pinto",
+    "nationality": "Portugal",
+    "age": 27,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-satsias",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Marinos Satsias",
+    "nationality": "Cyprus",
+    "age": 33,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 72,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-charalambides",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Constantinos Charalambides",
+    "nationality": "Cyprus",
+    "age": 30,
+    "primaryPosition": "RM",
+    "secondaryPositions": [
+      "RW"
+    ],
+    "positions": [
+      "RM",
+      "RW"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-manduca",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Gustavo Manduca",
+    "nationality": "Brazil",
+    "age": 31,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "LM",
+      "CAM"
+    ],
+    "positions": [
+      "LW",
+      "LM",
+      "CAM"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-marcinho",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Marcinho",
+    "nationality": "Brazil",
+    "age": 30,
+    "primaryPosition": "CAM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CAM",
+      "CM"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-trickovski",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Ivan Trickovski",
+    "nationality": "North Macedonia",
+    "age": 24,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "ST"
+    ],
+    "positions": [
+      "RW",
+      "ST"
+    ],
+    "overallRating": 77,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-ailton",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Ailton Almeida",
+    "nationality": "Brazil",
+    "age": 27,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-solari",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Esteban Solari",
+    "nationality": "Argentina",
+    "age": 31,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-adorno",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Aldo Adorno",
+    "nationality": "Paraguay",
+    "age": 29,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "RW"
+    ],
+    "positions": [
+      "ST",
+      "RW"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-jahic",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Sanel Jahic",
+    "nationality": "Bosnia and Herzegovina",
+    "age": 30,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CB"
+    ],
+    "positions": [
+      "CDM",
+      "CB"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "apo-1112-elia",
+    "teamSeasonId": "apoel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "APOEL",
+    "name": "Marios Elia",
+    "nationality": "Cyprus",
+    "age": 32,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 72,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-sommer",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Yann Sommer",
+    "nationality": "Switzerland",
+    "age": 23,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 82,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-vailati",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Germano Vailati",
+    "nationality": "Switzerland",
+    "age": 31,
+    "primaryPosition": "GK",
+    "secondaryPositions": [],
+    "positions": [
+      "GK"
+    ],
+    "overallRating": 70,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-steinhofer",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Markus Steinhofer",
+    "nationality": "Germany",
+    "age": 25,
+    "primaryPosition": "RB",
+    "secondaryPositions": [
+      "RWB"
+    ],
+    "positions": [
+      "RB",
+      "RWB"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-dragovic",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Aleksandar Dragovic",
+    "nationality": "Austria",
+    "age": 20,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-abraham",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "David Abraham",
+    "nationality": "Argentina",
+    "age": 25,
+    "primaryPosition": "CB",
+    "secondaryPositions": [],
+    "positions": [
+      "CB"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-kovac",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Radoslav Kovac",
+    "nationality": "Czech Republic",
+    "age": 31,
+    "primaryPosition": "CB",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CB",
+      "CDM"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-park",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Park Joo-ho",
+    "nationality": "South Korea",
+    "age": 24,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "LWB"
+    ],
+    "positions": [
+      "LB",
+      "LWB"
+    ],
+    "overallRating": 75,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-safari",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Behrang Safari",
+    "nationality": "Sweden",
+    "age": 26,
+    "primaryPosition": "LB",
+    "secondaryPositions": [
+      "LM"
+    ],
+    "positions": [
+      "LB",
+      "LM"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-huggel",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Benjamin Huggel",
+    "nationality": "Switzerland",
+    "age": 34,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 74,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-cabral",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Cabral",
+    "nationality": "Switzerland",
+    "age": 23,
+    "primaryPosition": "CDM",
+    "secondaryPositions": [
+      "CM"
+    ],
+    "positions": [
+      "CDM",
+      "CM"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-xhaka",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Granit Xhaka",
+    "nationality": "Switzerland",
+    "age": 19,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CDM"
+    ],
+    "positions": [
+      "CM",
+      "CDM"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-yapi",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Gilles Yapi",
+    "nationality": "Ivory Coast",
+    "age": 29,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "CAM"
+    ],
+    "positions": [
+      "CM",
+      "CAM"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-fabian-frei",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Fabian Frei",
+    "nationality": "Switzerland",
+    "age": 22,
+    "primaryPosition": "CM",
+    "secondaryPositions": [
+      "RM"
+    ],
+    "positions": [
+      "CM",
+      "RM"
+    ],
+    "overallRating": 76,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-shaqiri",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Xherdan Shaqiri",
+    "nationality": "Switzerland",
+    "age": 20,
+    "primaryPosition": "RW",
+    "secondaryPositions": [
+      "RM",
+      "CAM"
+    ],
+    "positions": [
+      "RW",
+      "RM",
+      "CAM"
+    ],
+    "overallRating": 83,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-stocker",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Valentin Stocker",
+    "nationality": "Switzerland",
+    "age": 22,
+    "primaryPosition": "LW",
+    "secondaryPositions": [
+      "LM"
+    ],
+    "positions": [
+      "LW",
+      "LM"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-alex-frei",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Alexander Frei",
+    "nationality": "Switzerland",
+    "age": 32,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 80,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-streller",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Marco Streller",
+    "nationality": "Switzerland",
+    "age": 30,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 78,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-zoua",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Jacques Zoua",
+    "nationality": "Cameroon",
+    "age": 20,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "LW"
+    ],
+    "positions": [
+      "ST",
+      "LW"
+    ],
+    "overallRating": 73,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-chipperfield",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Scott Chipperfield",
+    "nationality": "Australia",
+    "age": 35,
+    "primaryPosition": "LM",
+    "secondaryPositions": [
+      "LB"
+    ],
+    "positions": [
+      "LM",
+      "LB"
+    ],
+    "overallRating": 72,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  },
+  {
+    "id": "bas-1112-pak",
+    "teamSeasonId": "basel-2011-12",
+    "seasonId": "2011-12",
+    "seasonLabel": "2011-12",
+    "clubName": "Basel",
+    "name": "Pak Kwang-ryong",
+    "nationality": "North Korea",
+    "age": 19,
+    "primaryPosition": "ST",
+    "secondaryPositions": [
+      "CF"
+    ],
+    "positions": [
+      "ST",
+      "CF"
+    ],
+    "overallRating": 68,
+    "ratingType": "estimated",
+    "sourceName": "Sample seed data",
+    "sourceUrl": "local://sample-seed",
+    "sourceDate": "2026-06-09"
+  }
+]

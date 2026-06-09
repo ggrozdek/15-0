@@ -1,0 +1,121 @@
+playerName,clubName,year,primaryPosition,secondaryPositions,overallRating,ratingType,sourceName,sourceUrl,sourceDate
+Marc-Andre ter Stegen,Barcelona,2014,GK,,87,estimated,Sample seed data,local://sample-seed,2026-06-09
+Claudio Bravo,Barcelona,2014,GK,,86,estimated,Sample seed data,local://sample-seed,2026-06-09
+Dani Alves,Barcelona,2014,RB,RWB;RM,89,estimated,Sample seed data,local://sample-seed,2026-06-09
+Gerard Pique,Barcelona,2014,CB,,90,estimated,Sample seed data,local://sample-seed,2026-06-09
+Javier Mascherano,Barcelona,2014,CB,CDM,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Jeremy Mathieu,Barcelona,2014,CB,LB,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Jordi Alba,Barcelona,2014,LB,LWB;LM,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Adriano,Barcelona,2014,LB,RB;LWB,82,estimated,Sample seed data,local://sample-seed,2026-06-09
+Sergio Busquets,Barcelona,2014,CDM,CM,92,estimated,Sample seed data,local://sample-seed,2026-06-09
+Andres Iniesta,Barcelona,2014,CM,CAM,94,estimated,Sample seed data,local://sample-seed,2026-06-09
+Xavi,Barcelona,2014,CM,CDM,90,estimated,Sample seed data,local://sample-seed,2026-06-09
+Ivan Rakitic,Barcelona,2014,CM,CAM,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Rafinha,Barcelona,2014,CM,CAM;RM,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+Pedro,Barcelona,2014,RW,LW;RM,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Lionel Messi,Barcelona,2014,RW,CF;ST,98,estimated,Sample seed data,local://sample-seed,2026-06-09
+Luis Suarez,Barcelona,2014,ST,CF,95,estimated,Sample seed data,local://sample-seed,2026-06-09
+Neymar,Barcelona,2014,LW,LM;ST,94,estimated,Sample seed data,local://sample-seed,2026-06-09
+Munir El Haddadi,Barcelona,2014,ST,RW,76,estimated,Sample seed data,local://sample-seed,2026-06-09
+Sandro Ramirez,Barcelona,2014,ST,LW,75,estimated,Sample seed data,local://sample-seed,2026-06-09
+Martin Montoya,Barcelona,2014,RB,RWB,79,estimated,Sample seed data,local://sample-seed,2026-06-09
+Keylor Navas,Real Madrid,2016,GK,,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Kiko Casilla,Real Madrid,2016,GK,,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+Sergio Ramos,Real Madrid,2016,CB,,92,estimated,Sample seed data,local://sample-seed,2026-06-09
+Raphael Varane,Real Madrid,2016,CB,,87,estimated,Sample seed data,local://sample-seed,2026-06-09
+Pepe,Real Madrid,2016,CB,,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Nacho,Real Madrid,2016,CB,LB;RB,83,estimated,Sample seed data,local://sample-seed,2026-06-09
+Marcelo,Real Madrid,2016,LB,LWB;LM,91,estimated,Sample seed data,local://sample-seed,2026-06-09
+Fabio Coentrao,Real Madrid,2016,LB,LWB,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+Dani Carvajal,Real Madrid,2016,RB,RWB,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Danilo,Real Madrid,2016,RB,RWB,81,estimated,Sample seed data,local://sample-seed,2026-06-09
+Casemiro,Real Madrid,2016,CDM,CM,90,estimated,Sample seed data,local://sample-seed,2026-06-09
+Luka Modric,Real Madrid,2016,CM,CAM,94,estimated,Sample seed data,local://sample-seed,2026-06-09
+Toni Kroos,Real Madrid,2016,CM,CDM,93,estimated,Sample seed data,local://sample-seed,2026-06-09
+Isco,Real Madrid,2016,CAM,CM;LW,89,estimated,Sample seed data,local://sample-seed,2026-06-09
+Mateo Kovacic,Real Madrid,2016,CM,CAM,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Marco Asensio,Real Madrid,2016,RW,LW;CAM,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Gareth Bale,Real Madrid,2016,RW,LW;ST,91,estimated,Sample seed data,local://sample-seed,2026-06-09
+Cristiano Ronaldo,Real Madrid,2016,LW,ST,97,estimated,Sample seed data,local://sample-seed,2026-06-09
+Karim Benzema,Real Madrid,2016,ST,CF,89,estimated,Sample seed data,local://sample-seed,2026-06-09
+Alvaro Morata,Real Madrid,2016,ST,CF,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Manuel Neuer,Bayern Munich,2019,GK,,93,estimated,Sample seed data,local://sample-seed,2026-06-09
+Sven Ulreich,Bayern Munich,2019,GK,,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Benjamin Pavard,Bayern Munich,2019,RB,CB;RWB,85,estimated,Sample seed data,local://sample-seed,2026-06-09
+Jerome Boateng,Bayern Munich,2019,CB,,86,estimated,Sample seed data,local://sample-seed,2026-06-09
+David Alaba,Bayern Munich,2019,CB,LB;CDM,89,estimated,Sample seed data,local://sample-seed,2026-06-09
+Niklas Sule,Bayern Munich,2019,CB,,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Lucas Hernandez,Bayern Munich,2019,LB,CB;LWB,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Alphonso Davies,Bayern Munich,2019,LB,LWB;LM,87,estimated,Sample seed data,local://sample-seed,2026-06-09
+Joshua Kimmich,Bayern Munich,2019,CDM,CM;RB,91,estimated,Sample seed data,local://sample-seed,2026-06-09
+Thiago,Bayern Munich,2019,CM,CDM,90,estimated,Sample seed data,local://sample-seed,2026-06-09
+Leon Goretzka,Bayern Munich,2019,CM,CAM;CDM,87,estimated,Sample seed data,local://sample-seed,2026-06-09
+Corentin Tolisso,Bayern Munich,2019,CM,CDM,82,estimated,Sample seed data,local://sample-seed,2026-06-09
+Philippe Coutinho,Bayern Munich,2019,CAM,LW;CM,86,estimated,Sample seed data,local://sample-seed,2026-06-09
+Thomas Muller,Bayern Munich,2019,CAM,CF;ST,90,estimated,Sample seed data,local://sample-seed,2026-06-09
+Kingsley Coman,Bayern Munich,2019,LW,RW;LM,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Ivan Perisic,Bayern Munich,2019,LW,LM;RW,83,estimated,Sample seed data,local://sample-seed,2026-06-09
+Serge Gnabry,Bayern Munich,2019,RW,LW;RM,89,estimated,Sample seed data,local://sample-seed,2026-06-09
+Michael Cuisance,Bayern Munich,2019,CM,CAM,75,estimated,Sample seed data,local://sample-seed,2026-06-09
+Robert Lewandowski,Bayern Munich,2019,ST,CF,97,estimated,Sample seed data,local://sample-seed,2026-06-09
+Joshua Zirkzee,Bayern Munich,2019,ST,CF,74,estimated,Sample seed data,local://sample-seed,2026-06-09
+Ederson,Manchester City,2022,GK,,90,estimated,Sample seed data,local://sample-seed,2026-06-09
+Stefan Ortega,Manchester City,2022,GK,,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+Kyle Walker,Manchester City,2022,RB,RWB;CB,86,estimated,Sample seed data,local://sample-seed,2026-06-09
+Manuel Akanji,Manchester City,2022,CB,RB,85,estimated,Sample seed data,local://sample-seed,2026-06-09
+Ruben Dias,Manchester City,2022,CB,,91,estimated,Sample seed data,local://sample-seed,2026-06-09
+John Stones,Manchester City,2022,CB,CDM,89,estimated,Sample seed data,local://sample-seed,2026-06-09
+Aymeric Laporte,Manchester City,2022,CB,LB,87,estimated,Sample seed data,local://sample-seed,2026-06-09
+Nathan Ake,Manchester City,2022,LB,CB,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Joao Cancelo,Manchester City,2022,LB,RB;LWB;RWB,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Rico Lewis,Manchester City,2022,RB,RWB;CM,76,estimated,Sample seed data,local://sample-seed,2026-06-09
+Rodri,Manchester City,2022,CDM,CM,93,estimated,Sample seed data,local://sample-seed,2026-06-09
+Kalvin Phillips,Manchester City,2022,CDM,CM,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+Ilkay Gundogan,Manchester City,2022,CM,CAM,90,estimated,Sample seed data,local://sample-seed,2026-06-09
+Kevin De Bruyne,Manchester City,2022,CM,CAM,96,estimated,Sample seed data,local://sample-seed,2026-06-09
+Bernardo Silva,Manchester City,2022,RW,CM;CAM,91,estimated,Sample seed data,local://sample-seed,2026-06-09
+Phil Foden,Manchester City,2022,LW,RW;CAM,88,estimated,Sample seed data,local://sample-seed,2026-06-09
+Jack Grealish,Manchester City,2022,LW,LM;CAM,86,estimated,Sample seed data,local://sample-seed,2026-06-09
+Riyad Mahrez,Manchester City,2022,RW,RM;LW,87,estimated,Sample seed data,local://sample-seed,2026-06-09
+Julian Alvarez,Manchester City,2022,CF,ST;CAM,84,estimated,Sample seed data,local://sample-seed,2026-06-09
+Erling Haaland,Manchester City,2022,ST,CF,96,estimated,Sample seed data,local://sample-seed,2026-06-09
+Dionysis Chiotis,APOEL,2011,GK,,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Urko Pardo,APOEL,2011,GK,,75,estimated,Sample seed data,local://sample-seed,2026-06-09
+Savvas Poursaitides,APOEL,2011,RB,RWB,76,estimated,Sample seed data,local://sample-seed,2026-06-09
+Paulo Jorge,APOEL,2011,CB,,77,estimated,Sample seed data,local://sample-seed,2026-06-09
+Kaka,APOEL,2011,CB,,77,estimated,Sample seed data,local://sample-seed,2026-06-09
+Marcelo Oliveira,APOEL,2011,CB,LB,76,estimated,Sample seed data,local://sample-seed,2026-06-09
+William Boaventura,APOEL,2011,LB,LWB,76,estimated,Sample seed data,local://sample-seed,2026-06-09
+Nektarios Alexandrou,APOEL,2011,LM,LW;LWB,74,estimated,Sample seed data,local://sample-seed,2026-06-09
+Nuno Morais,APOEL,2011,CDM,CM,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Helio Pinto,APOEL,2011,CM,CAM,77,estimated,Sample seed data,local://sample-seed,2026-06-09
+Marinos Satsias,APOEL,2011,CM,CDM,72,estimated,Sample seed data,local://sample-seed,2026-06-09
+Constantinos Charalambides,APOEL,2011,RM,RW,76,estimated,Sample seed data,local://sample-seed,2026-06-09
+Gustavo Manduca,APOEL,2011,LW,LM;CAM,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Marcinho,APOEL,2011,CAM,CM,77,estimated,Sample seed data,local://sample-seed,2026-06-09
+Ivan Trickovski,APOEL,2011,RW,ST,77,estimated,Sample seed data,local://sample-seed,2026-06-09
+Ailton Almeida,APOEL,2011,ST,CF,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Esteban Solari,APOEL,2011,ST,CF,75,estimated,Sample seed data,local://sample-seed,2026-06-09
+Aldo Adorno,APOEL,2011,ST,RW,73,estimated,Sample seed data,local://sample-seed,2026-06-09
+Sanel Jahic,APOEL,2011,CDM,CB,74,estimated,Sample seed data,local://sample-seed,2026-06-09
+Marios Elia,APOEL,2011,ST,CF,72,estimated,Sample seed data,local://sample-seed,2026-06-09
+Yann Sommer,Basel,2011,GK,,82,estimated,Sample seed data,local://sample-seed,2026-06-09
+Germano Vailati,Basel,2011,GK,,70,estimated,Sample seed data,local://sample-seed,2026-06-09
+Markus Steinhofer,Basel,2011,RB,RWB,75,estimated,Sample seed data,local://sample-seed,2026-06-09
+Aleksandar Dragovic,Basel,2011,CB,,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+David Abraham,Basel,2011,CB,,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Radoslav Kovac,Basel,2011,CB,CDM,74,estimated,Sample seed data,local://sample-seed,2026-06-09
+Park Joo-ho,Basel,2011,LB,LWB,75,estimated,Sample seed data,local://sample-seed,2026-06-09
+Behrang Safari,Basel,2011,LB,LM,74,estimated,Sample seed data,local://sample-seed,2026-06-09
+Benjamin Huggel,Basel,2011,CDM,CM,74,estimated,Sample seed data,local://sample-seed,2026-06-09
+Cabral,Basel,2011,CDM,CM,73,estimated,Sample seed data,local://sample-seed,2026-06-09
+Granit Xhaka,Basel,2011,CM,CDM,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+Gilles Yapi,Basel,2011,CM,CAM,73,estimated,Sample seed data,local://sample-seed,2026-06-09
+Fabian Frei,Basel,2011,CM,RM,76,estimated,Sample seed data,local://sample-seed,2026-06-09
+Xherdan Shaqiri,Basel,2011,RW,RM;CAM,83,estimated,Sample seed data,local://sample-seed,2026-06-09
+Valentin Stocker,Basel,2011,LW,LM,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Alexander Frei,Basel,2011,ST,CF,80,estimated,Sample seed data,local://sample-seed,2026-06-09
+Marco Streller,Basel,2011,ST,CF,78,estimated,Sample seed data,local://sample-seed,2026-06-09
+Jacques Zoua,Basel,2011,ST,LW,73,estimated,Sample seed data,local://sample-seed,2026-06-09
+Scott Chipperfield,Basel,2011,LM,LB,72,estimated,Sample seed data,local://sample-seed,2026-06-09
+Pak Kwang-ryong,Basel,2011,ST,CF,68,estimated,Sample seed data,local://sample-seed,2026-06-09
